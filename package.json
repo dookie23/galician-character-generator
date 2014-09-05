@@ -1,0 +1,37 @@
+{
+  "name": "galician-character-generator",
+  "version": "1.0.0",
+  "description": "Generator for characters with typical-galician names",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt mochaTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dookie23/galician-character-generator.git"
+  },
+  "keywords": [
+    "name",
+    "generator",
+    "character",
+    "generator"
+  ],
+  "author": "Agustín Cañas <agustincanas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dookie23/galician-character-generator/issues"
+  },
+  "homepage": "https://github.com/dookie23/galician-character-generator",
+  "dependencies":{
+    "dookie-tools":"^0.0.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-mocha-test": "^0.11.0"
+  }
+}
