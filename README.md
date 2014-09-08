@@ -12,7 +12,8 @@ Generator for characters with typical-galician names
 	var gcg = require('galician-character-generator');
 
 	galician-character-generator.generateCharacter();
-	galician-character-generator.generateCharacter(characters);
+	galician-character-generator.generateCharacterNew(characters);
+	galician-character-generator.generateNCharacter(23);
 
 ## Tests
 
@@ -20,4 +21,5 @@ Generator for characters with typical-galician names
 
 ## Release history
 
+* 1.0.1 Added names
 * 1.0.0 First version

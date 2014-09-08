@@ -1,8 +1,8 @@
 var dtools = require("dookie-tools");
 
 var names = {
-    "F": ["Mariña", "Nataxa"],
-    "M": ["Martiño", "Xan"]
+    "F": ["Mariña", "Nataxa", "Nazaré", "Antía", "Xiana", "Sabela", "Lúa", "Alba", "Olaia"],
+    "M": ["Martiño", "Xan", "Brais", "Breixo", "Eros", "Zeus", "Lois", "Denís", "Iago"]
 };
 var surnames = ["Pombo", "Rego", "Fernández", "Baamon", "González", "Pérez", "Álvarez", "Herrero", "López", "Núñez", "Alonso", "Doval", "Barbosa", "Rodríguez", "Arias"];
 

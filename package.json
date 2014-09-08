@@ -1,6 +1,6 @@
 {
   "name": "galician-character-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generator for characters with typical-galician names",
   "main": "index.js",
   "scripts": {

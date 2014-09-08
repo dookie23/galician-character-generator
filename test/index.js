@@ -12,7 +12,7 @@ describe('#extractField', function() {
           {
               "name":"test2",
               "fullname":"fullname2"
-          },
+          },s
         ]
         out = gcg.extractField(students, "fullname");
         for (var i=0; i < out.length; i++)
